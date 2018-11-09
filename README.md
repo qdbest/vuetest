@@ -116,4 +116,4 @@ routes: [
   ]
 ```
   5. 效果如下
-![avatar](https://github.com/qdbest/mytest/blob/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181109214256.png?raw=true)
+![avatar](https://github.com/qdbest/vuetest/blob/master/img/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20181109214256.png?raw=true)
